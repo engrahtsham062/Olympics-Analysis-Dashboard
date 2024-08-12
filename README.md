@@ -1,6 +1,7 @@
+## Project Overview
 This Power BI dashboard provides a comprehensive analysis of the Olympic Games, focusing on various metrics such as medal counts, sports participation, and demographic distributions. The dashboard is designed to offer insights into the performance and participation trends of athletes and countries over the years.
 
-Key Features and Visualizations
+##cKey Features and Visualizations
 ## 1. Count of Medals
 Description: Displays the total number of medals won in the Olympic Games.
 Purpose: Provides an overall view of the medal distribution across different sports and countries.
